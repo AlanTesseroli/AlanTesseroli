@@ -6,7 +6,7 @@
 ### 💡 About Me :
 
 - I'm currently developing my portfolio and studying 
-- Studying PHP and JavaScript
+- Studying Java and JavaScript
 
 <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
